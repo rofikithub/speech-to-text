@@ -15,9 +15,9 @@ In order to run the python script, your system must have the following programs/
 * It will take a few minutes to convert speech to text and print on your terminal.
   
 ## install
-pip install SpeechRecognition
-pip install PyAudio
-pip install sounddevice
+pip install SpeechRecognition 
+pip install PyAudio 
+pip install sounddevice 
 
 ## Code
 ```
