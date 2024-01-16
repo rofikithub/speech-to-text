@@ -1,4 +1,4 @@
-# Python Speech To Text
+# Speech To Text
 
 A few lines of code written in python using libraries (SpeechRecognition, PyAudio) that convert speech to text. 
 
@@ -18,7 +18,7 @@ In order to run the python script, your system must have the following programs/
 ## Code
 ```
 # Program to convert speech to text
-# Author @inforkgodara
+# Author @rofikithub
 
 import speech_recognition as sr
 r = sr.Recognizer()
