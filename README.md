@@ -13,7 +13,11 @@ In order to run the python script, your system must have the following programs/
 * script.py execute in terminal.
 * After a printed start in the terminal, you begin to speak in English and end once your sentence is completed. 
 * It will take a few minutes to convert speech to text and print on your terminal.
-
+  
+## install
+pip install SpeechRecognition
+pip install PyAudio
+pip install sounddevice
 
 ## Code
 ```
